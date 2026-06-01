@@ -64,7 +64,7 @@ Through this virtual experience, I gained:
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/skyscanner-job-simulation.git
+git clone https://github.com/chaitradhake/skyscanner-job-simulation.git
 ```
 
 Navigate to the project directory:
